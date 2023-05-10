@@ -5,7 +5,7 @@
 # Kurulum
 
 ```bash
-$ npm install #uzerinde calisiyorum
+$ npm install @toprakuzuner/env-manager
 ```
 
 # Kullanım
